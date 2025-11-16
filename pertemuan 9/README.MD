@@ -7,7 +7,7 @@ Nim : 312510359
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/imgFC.png" width="450" height="550"></td>
 <td valign="top"><h3>DALAM PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/imgg.jpg" width="450" height="450">
-<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img1.jpg" width="450" height="450"></td></tr></table>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/imgg1.jpg" width="450" height="450"></td></tr></table>
 <h3>PENJELASAN SETIAP CODE</h3><ol>
 <p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img1.jpg" width="250" height="150"><li>Pertama kita buat beberapa list yang dibutuhkan untuk menyimpan data yang diinputkan.</li></p>
 <p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img2.jpg" width="250" height="150"><li>Kedua kita buat perintah untuk user inputkan dan simpan didalam variabel, dan buat operasi untuk menentukan nilai akhir dan jangan lupa disimpat dalam variabel(yang membutuhkan type int berikan)</li></p> <br> 
