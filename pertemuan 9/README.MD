@@ -4,7 +4,7 @@ Nama : Irvan Wahyudin <br>
 Nim : 312510359
 <h2>penggunaan list</h2>
 <table boder="0"><tr><td valign="top"><h3>DALAM FLOWCHART</h3>
-<img src="https://github.com/irvanwahyudin01/praktikum3/blob/main/praktikum/FLOWCHART%20BILANGAN.png" width="350" height="450"></td>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/imgFC.png" width="350" height="450"></td>
 <td valign="top"><h3>DALAM PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/imgg.jpg" width="450" height="450"></td></tr></table>
 <h3>PENJELASAN SETIAP CODE</h3><ol>
