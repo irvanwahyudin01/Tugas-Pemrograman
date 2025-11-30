@@ -16,7 +16,7 @@ Nim : 312510359
   <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.7.png" width="450" height="250">
   <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.8.png" width="350" height="250">
   <li>Sebenarnya code ini sama saja seperti pertemuan ke 10 silahkan di simak di
-  [Pertemuan 10](src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010")
+  [Pertemuan 10][1]
     hanya saja ini menggunakan fungsi dan saya jelaskan sedikit.</li>
 <p><li>Kedua kita buat perintah untuk user inputkan dan simpan didalam variabel, dan buat operasi untuk menentukan nilai akhir dan jangan lupa disimpat dalam variabel(yang membutuhkan type int berikan)</li></p> <br> 
 <p><li>Selanjutkan kita masukan nilai-nilai dari variabel tersebut ke dalam list yang sudah kita buat diawal dengan perintah append() artinya nilai akan di masukan di akhir dalam list, dn kita buat kondisi operasi ternity untuk menentukan mau menambahkan data atau tidak</li></p> <br> 
@@ -26,3 +26,4 @@ Nim : 312510359
 <li>untuk membuat tabel yang sempurna saya menggunakan perintah ljust() artinya data akan di tampilkan dulu dan selanjutnya menampilkan spas sebanyak dalam kurung, perlu diingat dalam perintah itu kita harus menggunakan format() dan format() hanya bisa memanggil data langsung dengan type string jadi harus menggubahnya ke string terlebih dahulu jadi jika ingin memanggil int harus denga format di dalam string yaitu %d. Dan terakhir kita tambahkan variabel i dan no agar bertambah sesuai data.</li></ol></P>
 <h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
 <P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img6.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img7.jpg" width="250" height="150"></P>
+[1]
