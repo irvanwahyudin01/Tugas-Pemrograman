@@ -15,7 +15,7 @@ Nim : 312510359
   <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.6.png" width="350" height="250">
   <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.7.png" width="450" height="250">
   <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.8.png" width="350" height="250">
-  <li>Pertama kita buat beberapa list yang dibutuhkan untuk menyimpan data yang diinputkan.</li></p>
+  <li>Sebenarnya code ini sama saja seperti pertemuan ke 10 silahkan di simak di [Praktikum Pertemuan 10](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/485c84fd7cdfbfdba99b08e3466900aef49731cc/pertemuan%2010), hanya saja ini menggunakan fungsi dan saya jelaskan sedikit.</li></p>
 <p><li>Kedua kita buat perintah untuk user inputkan dan simpan didalam variabel, dan buat operasi untuk menentukan nilai akhir dan jangan lupa disimpat dalam variabel(yang membutuhkan type int berikan)</li></p> <br> 
 <p><li>Selanjutkan kita masukan nilai-nilai dari variabel tersebut ke dalam list yang sudah kita buat diawal dengan perintah append() artinya nilai akan di masukan di akhir dalam list, dn kita buat kondisi operasi ternity untuk menentukan mau menambahkan data atau tidak</li></p> <br> 
 <p><li>Tambahkan perulangan while dengan kondisi jika variabel u bernilai True makan akan terus menjalankan perulangan tersebut.</li></p> <br> 
