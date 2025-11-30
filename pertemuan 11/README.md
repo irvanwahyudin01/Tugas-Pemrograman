@@ -4,7 +4,7 @@ Nama : Irvan Wahyudin <br>
 Nim : 312510359
 <h2>penggunaan fungsi</h2>
 <table boder="0"><tr><td valign="top"><h3>DALAM FLOWCHART</h3>
-<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/perfc.png" width="650" height="750"></td>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/perfc.png" width="750" height="750"></td>
 <td valign="top"><h3>DALAM PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.1.png" width="450" height="450">
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.2.png" width="450" height="450">
