@@ -4,7 +4,8 @@ Nama : Irvan Wahyudin <br>
 Nim : 312510359
 <h2>penggunaan list</h2>
 <table boder="0"><tr><td valign="top"><h3>DALAM FLOWCHART</h3>
-<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/imgFC.png" width="650" height="750"></td>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10fc.png?raw=true" width="650" height="750">
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10fc1.png?raw=true" width="650" height="750"></td>
 <td valign="top"><h3>DALAM PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10.1.png?raw=true" width="450" height="450">
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10.2.png?raw=true" width="450" height="450">
