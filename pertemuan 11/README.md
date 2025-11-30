@@ -21,9 +21,8 @@ Nim : 312510359
 Sebenarnya code ini sama saja seperti [**Pertemuan 10**](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010), hanya saja ini menggunakan fungsi dan saya jelaskan sedikit.</li>
 <li>sesuai intruksi kita masukan code sesuai dengan fungsinya masing-masing.</li>
 <li>apa bedanya si bang fungsi yang didalamnya ada variable dan tidak?, bedanya adalah jika kita butuh data yang dari luar fungsi untuk ke dalam fungsi harus menyertakan variblenya</li></p>
-<P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.9.png" width="250" height="150">
-<li>Kita beri awalan untuk perulangan tampilkan data i=o dan no=1, dan kita buat header sebelum memulai perulangannya. </li>
-<li>untuk membuat tabel yang sempurna saya menggunakan perintah ljust() artinya data akan di tampilkan dulu dan selanjutnya menampilkan spas sebanyak dalam kurung, perlu diingat dalam perintah itu kita harus menggunakan format() dan format() hanya bisa memanggil data langsung dengan type string jadi harus menggubahnya ke string terlebih dahulu jadi jika ingin memanggil int harus denga format di dalam string yaitu %d. Dan terakhir kita tambahkan variabel i dan no agar bertambah sesuai data.</li></ol></P>
+<P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.9.png" width="350" height="250">
+<li>Selanjutnya, saat kondisi terpenuhi kita panggil fungsi tersebut dan jika dibutuhkan data untuk ke dalam tambahkan variablenya. </li>
+</ol></P>
 <h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
-<P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img6.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img7.jpg" width="250" height="150"></P>
-[1]:https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010
+<P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.9.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.10.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.11.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.12.png" width="250" height="150"></P>
