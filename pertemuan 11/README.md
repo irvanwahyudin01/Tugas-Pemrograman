@@ -10,7 +10,12 @@ Nim : 312510359
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.2.png" width="450" height="450">
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.3.png" width="450" height="450"></td></tr></table>
 <h3>PENJELASAN SETIAP CODE</h3><ol>
-<p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img1.jpg" width="250" height="150"><li>Pertama kita buat beberapa list yang dibutuhkan untuk menyimpan data yang diinputkan.</li></p>
+<p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.4.png" width="250" height="150">
+  <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.5.png" width="250" height="150">
+  <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.6.png" width="250" height="150">
+  <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.7.png" width="250" height="150">
+  <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.8.png" width="250" height="150">
+  <li>Pertama kita buat beberapa list yang dibutuhkan untuk menyimpan data yang diinputkan.</li></p>
 <p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img2.jpg" width="250" height="150"><li>Kedua kita buat perintah untuk user inputkan dan simpan didalam variabel, dan buat operasi untuk menentukan nilai akhir dan jangan lupa disimpat dalam variabel(yang membutuhkan type int berikan)</li></p> <br> 
 <p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img3.jpg" width="250" height="150"><li>Selanjutkan kita masukan nilai-nilai dari variabel tersebut ke dalam list yang sudah kita buat diawal dengan perintah append() artinya nilai akan di masukan di akhir dalam list, dn kita buat kondisi operasi ternity untuk menentukan mau menambahkan data atau tidak</li></p> <br> 
 <p><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img4.jpg" width="250" height="150"><li>Tambahkan perulangan while dengan kondisi jika variabel u bernilai True makan akan terus menjalankan perulangan tersebut.</li></p> <br> 
