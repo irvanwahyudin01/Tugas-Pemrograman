@@ -18,7 +18,7 @@ Nim : 312510359
 
 <li>
 
-Sebenarnya code ini sama saja seperti pertemuan ke 10 silahkan di simak di [**Pertemuan 10**](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010), hanya saja ini menggunakan fungsi dan saya jelaskan sedikit.</li>
+Sebenarnya code ini sama saja seperti [**Pertemuan 10**](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010), hanya saja ini menggunakan fungsi dan saya jelaskan sedikit.</li>
 <p><li>Kedua kita buat perintah untuk user inputkan dan simpan didalam variabel, dan buat operasi untuk menentukan nilai akhir dan jangan lupa disimpat dalam variabel(yang membutuhkan type int berikan)</li></p> <br> 
 <p><li>Selanjutkan kita masukan nilai-nilai dari variabel tersebut ke dalam list yang sudah kita buat diawal dengan perintah append() artinya nilai akan di masukan di akhir dalam list, dn kita buat kondisi operasi ternity untuk menentukan mau menambahkan data atau tidak</li></p> <br> 
 <p><li>Tambahkan perulangan while dengan kondisi jika variabel u bernilai True makan akan terus menjalankan perulangan tersebut.</li></p> <br> 
