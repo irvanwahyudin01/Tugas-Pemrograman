@@ -9,6 +9,8 @@ Nim : 312510359
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2012/img/per12.1.png" width="450" height="450">
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2012/img/per12.2.png" width="450" height="450">
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2012/img/per12.3.png" width="450" height="450"></td></tr></table>
+<h3>Class Diagram<h/3><br>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2012/img/class.png" width="450" height="450">
 <h3>PENJELASAN SETIAP CODE</h3><ol>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.4.png" width="350" height="250">
   <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2011/img/per11.5.png" width="450" height="250">
