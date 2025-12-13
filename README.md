@@ -8,6 +8,6 @@ Dosen : Agung Nugroho, S.Kom, M.Kom <br>
 2. [Praktikum Pertemuan 6](https://github.com/irvanwahyudin01/labpy2)
 3. [Praktikum Pertemuan 7](https://github.com/irvanwahyudin01/labpy03)
 4. [Praktikum Pertemuan 9](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%209)
-5. [Praktikum Pertemuan 10](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/485c84fd7cdfbfdba99b08e3466900aef49731cc/pertemuan%2010)
+5. [Praktikum Pertemuan 10](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010)
 6. [Praktikum Pertemuan 11](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2011)
 7. [Praktikum Pertemuan 12](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2012)
