@@ -2,7 +2,7 @@
 tugas pertemuan 13 <br>
 Nama : Irvan Wahyudin <br>
 Nim : 312510359
-<h2>penggunaan OOP</h2>
+<h2>Penanganan Eksepsi</h2>
 <table boder="0"><tr><td valign="top"><h3>Latihan 1 : kalkulator Aman</h3>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2013/img/per13.1.png" width="450" height="450">
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2013/img/per13.2.png" width="450" height="450">
