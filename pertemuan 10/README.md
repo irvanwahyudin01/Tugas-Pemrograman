@@ -70,6 +70,7 @@ Nim : 312510359
 
 <br><li>Menu Keluar (K).</li>
   Untuk perulangan sehingga program berakhir 
-  
+
+<h3>Dokumentasi Saat Program Dijalankan</h3>
 <P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img6.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img7.jpg" width="250" height="150"></P>
 
