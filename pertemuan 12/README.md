@@ -13,8 +13,10 @@ Nim : 312510359
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2012/img/class.png" width="250" height="250">
 <h3>PENJELASAN PROGRAM</h3><ol>
 <p><li>pada class MahasiswaManager, class ini berfungsi sebagai pengelola utama data mahasiswa.</li>
-<li>self.data={}, ini tempat menyimpan data mahasiswa dengan key : Nama Mahasiswa dan Value : NIM,Nilai tugas,UAS,UTS, dan nilai akhir.</li>
-<li>didalamnya ada beberapa method program yaitu tambah(),tampilkan(),ubah(nama),hapus(nama).</li>
+<li>self.data={}, ini tempat menyimpan data mahasiswa dengan key : Nama Mahasiswa dan Value : NIM,Nilai tugas,UAS,UTS, dan nilai akhir.</li> 
+<li>
+
+didalamnya ada beberapa method program yaitu tambah(),tampilkan(),ubah(nama),hapus(nama). penjelasanya ada di [**Pertemuan 10**](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2010).</li>
 <li>manager = MahasiswaManager(), membuat objek dari class MahasiwaManager. Program ini dijalankan menggunakan loop while true, sehingga menu akan muncul terus sampai penguna memilih (K)eluar. </li>
 </ol></P>
 <h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
