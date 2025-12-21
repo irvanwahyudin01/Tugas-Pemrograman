@@ -12,3 +12,4 @@ Dosen : Agung Nugroho, S.Kom, M.Kom <br>
 6. [Praktikum Pertemuan 11](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2011)
 7. [Praktikum Pertemuan 12](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2012)
 8. [Praktikum Pertemuan 13](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2013)
+9. [Praktikum Pertemuan 14](https://github.com/irvanwahyudin01/Tugas-Pemrograman/tree/main/pertemuan%2014)
