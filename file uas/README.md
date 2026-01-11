@@ -1,17 +1,17 @@
 # UJIAN AKHIR SEMESTER
 <br>
 Nama : Irvan Wahyudin <br>
-Nim : 312510359
+Nim : 312510359 
+<br><br>
 
-Silahkan [Klik disini](https://www.youtube.com/watch?v=n-_xYIsS8JQ&t=312s) Untuk melihat penjelasan saya yang singkat
-
+Silahkan [Klik disini](https://www.youtube.com/watch?v=n-_xYIsS8JQ&t=312s) untuk melihat penjelasan saya yang singkat di youtube
 <h2>Program Rating</h2>
 <table boder="0"><tr>
 <td valign="top"><h3>CODE PYHTON</h3>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas1.png" width="450" height="450"><br>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas2.png" width="450" height="450"><br>
 <img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas3.png" width="450" height="450"></td></tr></table>
-<h2>PENJELASAN SETIAP CODE</h2><ol>
+<h2>PENJELASAN PROGRAM</h2><ol>
 
 ## Struktur Program
 
