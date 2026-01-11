@@ -5,9 +5,9 @@ Nim : 312510359
 <h2>Program Rating</h2>
 <table boder="0"><tr>
 <td valign="top"><h3>CODE PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10.1.png?raw=true" width="450" height="450">
-<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10.2.png?raw=true" width="450" height="450">
-<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%2010/img/per10.3.png?raw=true" width="450" height="450"></td></tr></table>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas1.png" width="450" height="450"><br>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas2.png" width="450" height="450"><br>
+<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas3.png" width="450" height="450"></td></tr></table>
 <h2>PENJELASAN SETIAP CODE</h2><ol>
 
 ## Struktur Program
@@ -51,5 +51,5 @@ mengatur alur utama program
 3. Dan menampilkan tabel dan rata-rata rating
    
 <h3>Dokumentasi Saat Program Dijalankan</h3>
-<P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img6.jpg" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/pertemuan%209/img/img7.jpg" width="250" height="150"></P>
+<P><img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas4.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas5.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas6.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/Tugas-Pemrograman/blob/main/file%20uas/img/uas7.png" width="250" height="150"></P>
 
