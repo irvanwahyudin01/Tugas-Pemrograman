@@ -2,6 +2,9 @@
 <br>
 Nama : Irvan Wahyudin <br>
 Nim : 312510359
+
+Silahkan [Klik disini](https://www.youtube.com/watch?v=n-_xYIsS8JQ&t=312s) Untuk melihat penjelasan saya yang singkat
+
 <h2>Program Rating</h2>
 <table boder="0"><tr>
 <td valign="top"><h3>CODE PYHTON</h3>
